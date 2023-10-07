@@ -15,3 +15,7 @@ figure {
 img {
     width: 100%;
 }
+.perro {
+    width: 200px; /* Set the desired width */
+    height: auto; /* Let the height adjust proportionally */
+  }
